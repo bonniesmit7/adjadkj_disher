@@ -1,0 +1,12 @@
+python-telegram-bot
+httplib2
+requests
+clint
+pycryptodome
+requests-toolbelt
+pyDes
+bs4
+lxml
+flask-cors
+html_telegraph_poster
+fake_useragent
