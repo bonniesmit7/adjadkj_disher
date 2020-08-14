@@ -114,7 +114,7 @@ def send(update,context):
                     # continue
 
         print("Break; ")
-        time.sleep(1500)
+        time.sleep(30)
         
     # Msg = f"Hello {update.effective_user.first_name}\nThanks for trying RoMusic Downloader !\n\nSend me link of JioSaavn song and I'll send the song on Telegram \n\nMade with ❤️ by @truroshan"
         # context.bot.sendPhoto(chat_id=update.effective_chat.id,photo = result['pic'])
