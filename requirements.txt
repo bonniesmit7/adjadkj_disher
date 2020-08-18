@@ -10,3 +10,7 @@ lxml
 flask-cors
 html_telegraph_poster
 fake_useragent
+pymongo
+telegraph
+schedule
+dnspython
