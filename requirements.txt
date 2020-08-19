@@ -15,3 +15,4 @@ telegraph
 schedule
 dnspython
 bs4
+mechanicalsoup
